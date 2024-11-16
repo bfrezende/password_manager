@@ -1,1 +1,1 @@
-**Organize and store passwords in text format**
+**Organize and store passwords in a text file**
